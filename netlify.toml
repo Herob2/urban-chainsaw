@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-  Referrer-Policy = "origin"
+  Referrer-Policy = "origin-when-cross-origin"
   Permissions-Policy = "interest-cohort=()"
   X-Frame-Options = "DENY"
   X-Content-Type-Options = "nosniff"
